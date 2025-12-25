@@ -1,0 +1,3 @@
+name = "sub-web-modify" # 请确保此名称与您的项目名一致
+compatibility_date = "2025-12-25" # 使用当前日期或更新的日期
+pages_build_output_dir = "./dist" # 指定 Vue 构建后的输出目录
